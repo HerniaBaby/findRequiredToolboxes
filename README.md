@@ -1,3 +1,5 @@
+[![View findRequiredToolboxes on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/166666-findrequiredtoolboxes)
+
 This MATLAB code defines a function `findRequiredToolboxes` which identifies the toolboxes required for a given MATLAB script or function file. The function can handle `.m`, `.mlx`, and `.slx` file types. Below is a detailed explanation of the code:
 
 ### Function Definition and Description
